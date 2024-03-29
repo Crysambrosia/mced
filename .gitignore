@@ -1,0 +1,12 @@
+# binaries
+bin/*
+obj/*
+*.exe
+*.db
+*.do
+*.o
+*.out
+
+# macOS special files
+.DS_Store
+
